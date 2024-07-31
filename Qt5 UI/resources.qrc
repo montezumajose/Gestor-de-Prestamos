@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/">
+        <file>images/Financiero.ico</file>
+        <file>images/img.jpg</file>
+    </qresource>
+</RCC>
